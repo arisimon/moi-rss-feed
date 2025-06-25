@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MOI Booking Links</title>
+    <link>https://museumofillusions.com/locations</link>
+    <description>Auto-updating list of booking links by location</description>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Atlanta</title>
+      <link>https://book.moiatlanta.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Austin</title>
+      <link>https://book.peek.com/s/662bee71-9973-404b-8adc-b5c20399542a/2XRRE</link>
+    </item>
+    <item>
+      <title>Boston</title>
+      <link>https://moiboston.com/buy-tickets/</link>
+    </item>
+    <item>
+      <title>Charlotte</title>
+      <link>https://book.moicharlotte.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Chicago</title>
+      <link>https://moichicago.com/buy-tickets/</link>
+    </item>
+    <item>
+      <title>Cleveland</title>
+      <link>https://book.moicleveland.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Dallas</title>
+      <link>https://book.peek.com/s/3df34787-f49b-4c55-b48d-9a202c51a82e/WjZ68</link>
+    </item>
+    <item>
+      <title>Denver</title>
+      <link>https://book.moidenver.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Houston</title>
+      <link>https://book.peek.com/s/1ce17b04-bcaa-443f-83b4-88e86491d8db/L3YYr</link>
+    </item>
+    <item>
+      <title>Kansas City</title>
+      <link>https://tickets.moikansascity.com/event/general-admission-y3s6xh</link>
+    </item>
+    <item>
+      <title>Las Vegas</title>
+      <link>https://book.moilasvegas.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Mall of America</title>
+      <link>https://book.moimallofamerica.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>New York</title>
+      <link>https://book.newyork.museumofillusions.us/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Orlando</title>
+      <link>https://moiorlando.com/buy-tickets/</link>
+    </item>
+    <item>
+      <title>Philadelphia</title>
+      <link>https://moiphilly.com/buy-tickets/</link>
+    </item>
+    <item>
+      <title>Pittsburgh</title>
+      <link>https://moipittsburgh.com/buy-tickets/</link>
+    </item>
+    <item>
+      <title>San Diego</title>
+      <link>https://book.moisandiego.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Scottsdale</title>
+      <link>https://moiscottsdale.com/buy-tickets/</link>
+    </item>
+    <item>
+      <title>Seattle</title>
+      <link>https://book.moiseattle.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>St. Louis</title>
+      <link>https://book.moistlouis.com/booknow/en-us/home</link>
+    </item>
+    <item>
+      <title>Washington DC</title>
+      <link>https://moiwashington.com/buy-tickets-rocketrez/</link>
+    </item>
+  </channel>
+</rss>
